@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# Arduino derleme dosyaları
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+
+# PlatformIO
+.pio/
+
+# Ön-derlenmiş header
+*.cpp.gch
+
+# Kütüphane klasörleri
+/libraries/
+/lib_deps/
+
+# Log ve geçici
+*.log
+*.tmp
