@@ -61,7 +61,7 @@ This project provides a web interface over ESP32-WROOM-32 (in Access Point mode)
 5. **Compile and Upload the Code**  
    - Select **Tools → Board → ESP32 Dev Module**  
    - Select the correct **Tools → Port** (matching your ESP32)  
-   - Make sure SSID/password and pin assignments in `main.cpp` are correct  
+   - Make sure SSID/password and pin assignments in `NetworkScanner.ino` are correct  
    - Click **Upload**  
    - Open Serial Monitor (baud rate: 115200) for debug output
 
