@@ -74,7 +74,9 @@ This project provides a web interface over ESP32-WROOM-32 (in Access Point mode)
 5. Click **Start Scan** to begin scanning and view results in real time
 
 ## File Structure
+```
 ├─ data/index.html # Static web interface
 ├─ NetworkScanner.ino # Arduino sketch
 ├─ README.md # Project documentation
 └─ .gitignore # Ignores build and temporary files
+```
