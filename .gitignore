@@ -31,7 +31,7 @@
 *.out
 *.app
 
-# Arduino derleme dosyaları
+# Arduino build files
 build/
 *.elf
 *.hex
@@ -41,13 +41,13 @@ build/
 # PlatformIO
 .pio/
 
-# Ön-derlenmiş header
+# Precompiled headers
 *.cpp.gch
 
-# Kütüphane klasörleri
+# Library folders
 /libraries/
 /lib_deps/
 
-# Log ve geçici
+# Logs and temporary files
 *.log
 *.tmp
